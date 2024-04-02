@@ -82,7 +82,7 @@ export default async function Home() {
         <br />
       </p>
       <p id="02e0e2db-51f4-402a-b9cb-1e52030fd27d" className="">
-        Dr. Sharon, I first got to experience your personality when Swati missed
+        <b>Dr. Sharon</b>, I first got to experience your personality when Swati missed
         some days. I found that Swati was not scared of you out of fear but out
         of respect. That made me smile. You are an amazing mother (as I felt
         from our conversation about your sons IELTS exam). I feel that you care
@@ -100,7 +100,7 @@ export default async function Home() {
       </p>
       <p id="a3763171-3eb9-418f-ac85-36f7cd3aa9a5" className="" />
       <p id="2b1509e1-b944-4c7a-8629-6d0d98b5f479" className="">
-        Talking about being really pretty, Hello Ernest, I have seen you in
+        Talking about being really pretty, Hello <b>Ernest</b>, I have seen you in
         person for the first time, given that you look like MAUI from the Disney
         movie Moana, so intimidating, But in reality you are just a pure joyous
         kid. Watching you eat, I want to eat everything I want, and work hard to
@@ -122,7 +122,7 @@ export default async function Home() {
       </p>
       <p id="d45c92cc-a197-42fa-b72c-0c4894e35984" className="" />
       <p id="283af3e1-b755-4232-ab3d-ed2f3ec61892" className="">
-        Dear Dear Dear Chris, You became important to me from the moment you
+        Dear Dear Dear <b>Chris</b> , You became important to me from the moment you
         stayed with me at the Nepal airport, where I got stuck because of my
         silly mistake (yeah Ernest mai Yeda hu *sighs*). So far away from home
         helpless at the time and scared and vulnerable, I had 0 contact with my
@@ -138,7 +138,7 @@ export default async function Home() {
       </p>
       <p id="e5e46074-a991-4ab7-b015-7e09f88b9644" className="" />
       <p id="589dcfee-7934-489c-8215-9957681c296b" className="">
-        Mr Mukesh, How do you know so much about the world? your stories
+      <b>Mr Mukesh </b>, How do you know so much about the world? your stories
         intrigue me, I have been to many countries and I still can’t talk about
         them because I never paid attention to things as much as you do. I saw
         you observing a flower at Mr. Anand’s house and it all clicked. You
@@ -151,7 +151,7 @@ export default async function Home() {
       </p>
       <p id="df82c494-326e-48f0-b098-e5db131ad671" className="" />
       <p id="9a86e0d8-8324-4855-99e2-eca22b3936e4" className="">
-        Aman, you’re a gorgeous person, I will not believe you’re older than me.
+      <b>Aman</b>, you’re a gorgeous person, I will not believe you’re older than me.
         Some genes you’ve got MA BOYYYY. I will meet you again,&nbsp;Ping Rao
         and I’ll be always reachable at 247. Wish we had more time to talk and
         connect. I learned from you that it’s not a matter of being an introvert
@@ -161,7 +161,7 @@ export default async function Home() {
       </p>
       <p id="db6f0184-1820-46cb-9b87-25c894d451af" className="" />
       <p id="0972dab9-b730-49fb-8d64-f09cf779ba1c" className="">
-        Namita, you’re a wonderful woman. Being your roommate was fun, I
+      <b>Namita</b>, you’re a wonderful woman. Being your roommate was fun, I
         couldn’t believe it when Swati said you’re a mother, my first thought
         was I def don’t deserve to be a parent, unless I matched “her” energy,
         responsibility and , and her pretty face. Trying to catch up with your
@@ -173,7 +173,7 @@ export default async function Home() {
       </p>
       <p id="750a3f0a-688c-40f5-a3a6-072eadcf84e6" className="" />
       <p id="bf135b94-5062-4dc0-b66f-1cb8e8c2bca2" className="">
-        Mr Anand, your patience with 10000000x varied questions, leaves me
+      <b>Mr Anand </b>, your patience with 10000000x varied questions, leaves me
         baffled. My father is a yogi, I learned pranayama and many things from
         him, he is a drilling oil engineer in Kuwait in the profession but a kid
         at his soul. I wish he could meet you, I will let him know. Tolerance
