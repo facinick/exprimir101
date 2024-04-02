@@ -1,4 +1,4 @@
-<a href="https://precedent.dev">
+<a href="https://exprimir101.com/">
   <img alt="Precedent – Building blocks for your Next project" src="https://precedent.dev/opengraph-image">
   <h1 align="center">Precedent</h1>
 </a>

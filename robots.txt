@@ -1,4 +1,4 @@
-Sitemap: https://precedent.dev/sitemap.xml
+Sitemap: https://exprimir101.com/sitemap.xml
 
 User-agent: *
 Disallow: /api

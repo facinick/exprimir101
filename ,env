@@ -1,0 +1,16 @@
+### These env vars are for authentication & database to work. If you don't require them, feel free to enter dummy values for all these.
+
+# Create a free PostgreSQL database: https://vercel.com/postgres
+# If you're deploying this template with a Vercel Deploy Button, these will be configured automatically for you.
+POSTGRES_PRISMA_URL="postgres://default:BjqH1T8oUnch@ep-restless-rice-a1xn9at2-pooler.ap-southeast-1.aws.neon.tech:5432/verceldb?sslmode=require&pgbouncer=true&connect_timeout=15"
+POSTGRES_URL_NON_POOLING="postgres://default:BjqH1T8oUnch@ep-restless-rice-a1xn9at2.ap-southeast-1.aws.neon.tech:5432/verceldb?sslmode=require"
+
+# Follow the instructions here to create a Google OAuth app: https://refine.dev/blog/nextauth-google-github-authentication-nextjs/#for-googleprovider-make-sure-you-have-a-google-account
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+
+# Only for production – generate one here: https://generate-secret.vercel.app/32
+NEXTAUTH_SECRET=56c7c5f7b23f2638af794b6fd15911e1
+
+## Only required for localhost
+NEXTAUTH_URL=http://localhost:3000
