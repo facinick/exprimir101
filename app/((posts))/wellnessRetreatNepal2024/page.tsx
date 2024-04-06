@@ -5,7 +5,7 @@ import ComponentGrid from "@/components/home/component-grid";
 import Image from "next/image";
 import { nFormatter } from "@/lib/utils";
 import Link from "next/link";
-import imgSrc from '/assets/posts/post1/img.jpeg';
+import imgSrc from ’/assets/posts/post1/img.jpeg’;
 
 export default async function Home() {
 
@@ -75,7 +75,7 @@ export default async function Home() {
       <b>Dr. Sharon</b>, I first got to experience your personality when Swati missed
       some days. I found that Swati was not scared of you out of fear but out
       of respect. That made me smile. You are an amazing mother (as I felt
-      from our conversation about your son's IELTS exam). I feel that you care
+      from our conversation about your son’s IELTS exam). I feel that you care
       deeply about what you’ve built from the ground up, and I am sure you
       won’t ever compromise on its quality. I observed you worrying about your
       individual patient’s knees when playing games to everyone’s comfort at
