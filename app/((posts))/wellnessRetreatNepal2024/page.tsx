@@ -225,7 +225,7 @@ export default async function Home() {
                 <em>The easy comes when you scream Yippie.</em>
               </p>
               <p id="1ea860c1-9643-456e-b7c4-adc5503cd50d" className="">
-                <em>No goal in life should be so bold,</em>
+                <em>No goal in life shouldn't be so bold,</em>
               </p>
               <p id="413b98e1-0e6d-4002-bd7d-903a34195364" className="">
                 <em>That this moment of truth is kept on hold</em>
