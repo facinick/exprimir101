@@ -27,7 +27,9 @@ export default async function RootLayout({
           <Nav />
         </Suspense>
         <main className="flex min-h-screen w-full flex-col items-center justify-center py-32">
+        <div className="z-10 w-full max-w-xl px-5 xl:px-0">
           {children}
+          </div>
         </main>
         <Footer />
         <Analytics />
