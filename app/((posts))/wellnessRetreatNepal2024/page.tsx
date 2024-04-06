@@ -37,14 +37,14 @@ export default async function Home() {
               <p id="152bbffb-8a25-4be0-b7ad-2cfa0ecb7eca" className="">
                 By the looks of it, it’ll take a couple of
                 minutes to read. Share it use it
-                however you want, It&aposs a one sided message, I am not looking to hear from anyone.
+                however you want, It’s a one sided message, I am not looking to hear from anyone.
               </p>
               <p id="735099f2-a4c2-48f8-a776-fbf3f9284e55" className="">
                 I am Shriyans Kapoor, a student for life, and professionally I have been
                 a software engineer and graduated from a silly college, I don’t work for
                 Dr. Sharon, and wasn’t directly a part of this wellness retreat of
                 Exprimir101 Clinic. But I’d still like to say a couple of things that I
-                have personally felt. I am a Software Engineer as of today, I mostly have interests in building things and making them efficient, design however has always been my weak side, and being a minimalist doesn’t help either.
+                have personally felt. Professionally, I have interest in building things and making them efficient, design however has never been my forte, and being a minimalist doesn’t help either.
               </p>
               <p id="1775484f-df51-4a30-a4a0-9babd6118866" className="">
                 <br />
