@@ -5,6 +5,7 @@ import ComponentGrid from "@/components/home/component-grid";
 import Image from "next/image";
 import { nFormatter } from "@/lib/utils";
 import Link from "next/link";
+import imgSrc from '/assets/posts/post1/img.jpeg';
 
 export default async function Home() {
 
@@ -12,6 +13,7 @@ export default async function Home() {
     <>
           <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
           <title>Wellness Retreat - Nepal 2024</title>
+          <Image src={imgSrc} alt={""} width={1024} height={240} />
           <style
             dangerouslySetInnerHTML={{
               __html:
