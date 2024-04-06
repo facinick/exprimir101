@@ -5,7 +5,7 @@ import ComponentGrid from "@/components/home/component-grid";
 import Image from "next/image";
 import { nFormatter } from "@/lib/utils";
 import Link from "next/link";
-import imgSrc from ’/assets/posts/post1/img.jpeg’;
+import imgSrc from "/assets/posts/post1/img.jpeg";
 
 export default async function Home() {
 
