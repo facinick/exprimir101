@@ -47,7 +47,7 @@ export default async function Home() {
       <strong>Prologue:</strong>
     </p>
     <p id="e9388662-0e1b-462e-a021-a48c80279c83" className="">
-      My father taught me (among countless things) to always find good things
+      My father taught me (among countless other things) to always find good things
       to learn from every living and non-living being on this planet. There’s
       no limit to the bad things you can learn, good things, however, are
       limited. And most importantly, Learning isn’t done when the teacher
