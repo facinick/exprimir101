@@ -29,7 +29,7 @@ export default async function Home() {
   </header>
   <div className="page-body">
     <p id="babe29ed-abce-4e7a-8bba-b945f0b35aab" className="">
-      Wednesday, 27th MARCH 2024.
+    Wednesday, 27th March 2024 - Sunday, 31st March 2024.
     </p>
     <p id="8093d472-ce9c-46c6-9061-622118112dbc" className="">
       <strong>Disclaimer:</strong>
