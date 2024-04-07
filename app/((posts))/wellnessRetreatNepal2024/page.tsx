@@ -69,7 +69,6 @@ export default async function Home() {
       the living hell out of her :p). But to hear about someone is one thing,
       you can’t appreciate as much. And after my personal experience, I wanna
       say: <br />
-      <br />
     </p>
     <p id="02e0e2db-51f4-402a-b9cb-1e52030fd27d" className="">
       <b>Dr. Sharon</b>, I first got to experience your personality when Swati missed
@@ -285,16 +284,7 @@ export default async function Home() {
       </a>
       <br />
     </p>
-    <p id="1a7aa1b8-5dc9-4c67-8f11-cc255201c825" className="">
-      &nbsp;
-    </p>
-    <p id="3632f89e-298f-4b86-9a77-4c9a53df41ec" className="">
-      PS: I need to finish off that website for Exprimir101&nbsp;({" "}
-      <a href="http://exprimir101.com/">exprimir101.com</a>), Dr. Swati, so
-      sorry for the delay, but I will take care of it all by April 2024. And
-      yeah, send me more such opportunities. They not only are refreshing but
-      are absolutely enlightening.
-    </p>
+    
     <p id="fb0be22c-7f90-48e7-b641-5db8a2e242e4" className="">
       -Shriyans Kapoor
     </p>
